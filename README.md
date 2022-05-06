@@ -7,7 +7,7 @@
 </a>
   
 </p>
-<h1 align="center">"discord.gg/deuss"</h1>
+<h1 align="center">discord.gg/deusweb</h1>
 <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
 <p align="center">
