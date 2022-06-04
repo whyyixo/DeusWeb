@@ -5,7 +5,7 @@
 -->
 
 ```css
-[paradox@archlinux ~]$ neofetch
+[deusweb@archlinux ~]$ vecna
 
                     -@                    deusweb@archlinux
                    .##@                   -----------------
