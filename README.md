@@ -30,4 +30,3 @@ deus@deus:~/Bureau/Vecna$ python3 vecna.py
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deusweb&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"> -->
 </p>
-<a href="https://github.com/kanekiweb">README CREDIT</a>
