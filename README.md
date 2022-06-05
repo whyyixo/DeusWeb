@@ -7,21 +7,17 @@
 ```css
 deus@deus:~/Bureau$ python3 vecna.py
 
-                    -@                    deusweb@archlinux
-                   .##@                   -----------------
-                  .####@                  Username: Deus Web
-                  @#####@                 Discord: https://discord.gg/vecna
-                . *######@                
-               .##@o@#####@
-              /############@            
-             /##############@             deusweb@archlinux
-            @######@**%######@            -----------------
-           @######`     %#####o           Python: 7/10
-          @######@       ######%          CSharp: 5/10
-        -@#######h       ######@.`        
-       /#####h**``       `**%@####@       
-      @H@*`                    `*%#@    
-     *`                            `*     Infos: 16yo im owner of vecna im student and dev !
+                  deusweb@archlinux
+                  -----------------
+                  Username: Deus Web
+		  Discord: https://discord.gg/vecna
+  
+		  deusweb@archlinux
+		  -----------------
+		  Python: 7/10
+		  CSharp: 5/10
+
+		  Infos: 16yo im owner of vecna im student and dev !
 
 ```
 
