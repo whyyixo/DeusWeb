@@ -4,6 +4,8 @@
 
 -->
 
+<a href="https://github.com/kanekiweb">README CREDIT</a>
+
 ```css
 [deusweb@archlinux ~]$ vecna
 
