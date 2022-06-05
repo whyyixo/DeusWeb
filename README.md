@@ -5,7 +5,7 @@ deus@web:~/Bureau/Vecna$ python3 vecna.py
 deusweb@xubuntu
 -----------------
 Username: Deus Web
-Discord: https://discord.gg/vecna
+Discord: .gg/vecna
   
 deusweb@xubuntu
 -----------------
