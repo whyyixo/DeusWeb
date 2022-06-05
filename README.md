@@ -1,20 +1,14 @@
-<!-- 
-
-	~> If you see this don't forget to follow me before skid <3
-
--->
-
 ```css
 
-deus@deus:~/Bureau/Vecna$ python3 vecna.py
+deus@web:~/Bureau/Vecna$ python3 vecna.py
 
-deusweb@archlinux
------
+deusweb@xubuntu
+-----------------
 Username: Deus Web
 Discord: https://discord.gg/vecna
   
-deusweb@archlinux
------
+deusweb@xubuntu
+-----------------
 Python: 7/10
 CSharp: 5/10
 
