@@ -5,7 +5,7 @@
 -->
 
 ```css
-deus@deus:~/Bureau$ python3 vecna.py
+deus@deus:~/Bureau/Vecna$ python3 vecna.py
 
                   deusweb@archlinux
                   -----------------
