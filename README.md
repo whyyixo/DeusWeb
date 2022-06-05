@@ -9,19 +9,19 @@
 deus@deus:~/Bureau/Vecna$ python3 vecna.py
 
 deusweb@archlinux
------------------
+-----
 Username: Deus Web
 Discord: https://discord.gg/vecna
   
 deusweb@archlinux
------------------
+-----
 Python: 7/10
 CSharp: 5/10
 
 Infos: 16yo im owner of vecna im student and dev !
 
 ```
-
+-----
 <p align="center">
 	<img src="https://lanyard-profile-readme.vercel.app/api/845757144883265556?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
 <!-- 	<br>
