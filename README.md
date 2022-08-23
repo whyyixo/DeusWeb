@@ -1,19 +1,15 @@
 ```css
 
-deus@web:~/Bureau/Vecna$ python3 vecna.py
+ldz@web:~/Bureau/Vecna$ python3 vecna.py
 
 deusweb@xubuntu
 -----------------
-Username: Deus Web
-Discord: .gg/vecna
+Username: ldz
+Discord: .gg/s9RuGgQTtQ
   
-deusweb@xubuntu
+ldz@xubuntu
 -----------------
-Python: 7/10
-CSharp: 5/10
-
-Infos: 16yo im owner of vecna im student and dev !
-
+Python: 8/10
 ```
 -----
 <p align="center">
